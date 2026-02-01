@@ -19,18 +19,16 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 
 
 ## 🧬 About Me
-- 🔭 Currently building **CodeFlux AI** — a next-gen coding assistant.  
-- 🌱 Learning **AI Pentesting**, **LLM Security**, and advanced **system integration**.  
-- 🧩 Maker of **BMO (Good & Bad Mode AI)** project for Raspberry Pi.  
-- ⚡ Motto: *“Hack the system, but build something better.”*  
+- 🔭 Currently:  
+- 🌱 Learning: 
+- ⚡ Motto:  
 
 ---
 
 
 
 ## 🧰 Tools & Tech
-- 🌐 **Full-Stack Dev:** `React`, `Node.js`, `Express`, `Flask`, `TailwindCSS`
-- 🧠 **AI & ML:** `TensorFlow`, `PyTorch`, `LangChain`, `OpenAI API``
+- 🌐 **Full-Stack Dev:** `React`, `Node.js`, `Express`, `Flask`, `TailwindCSS``
 - 🐧 **Environments:** `Kali Linux`, `Ubuntu`, `Windows`, `Docker`, `Git`
 
 ---
@@ -42,14 +40,14 @@ I love creating tools that mix intelligence, automation, and a bit of chaos — 
 
 ---
 
-💀 *"The system fears the mind that questions it."*
+💀 *"You won't know until you try."*
 
 ---
 
 
 ## 🌐 Connect
 💬 Discord: **marjinal.bey**  
-🚀 GitHub: [github.com/oprah14](https://github.com/oprah14)
+🚀 GitHub: [github.com/NightCoderP](https://github.com/NightCoderP)
 
 ---
 
